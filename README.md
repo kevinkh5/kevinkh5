@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=kyon5)](https://solved.ac/kyon5)<br/>
+
 <!--
 **kevinkh5/kevinkh5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
