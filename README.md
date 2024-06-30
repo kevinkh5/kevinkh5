@@ -1,7 +1,13 @@
 ## Hi there 👋
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=kyon5)](https://solved.ac/kyon5)<br/>
+## 🧑‍💻 Skills
+<img src="https://img.shields.io/badge/fastapi-009688.svg?style=for-the-badge&logo=fastapi&logoColor=white"> <img src="https://img.shields.io/badge/Streamlit-FF4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white"> <img src="https://img.shields.io/badge/MongoDB-47A248.svg?style=for-the-badge&logo=MongoDB&logoColor=white">
+<img src="https://img.shields.io/badge/Redis-FF4438.svg?style=for-the-badge&logo=Redis&logoColor=white"> <img src="https://img.shields.io/badge/OpenAI-412991.svg?style=for-the-badge&logo=OpenAI&logoColor=white"> <img src="https://img.shields.io/badge/LangChain-1C3C3C.svg?style=for-the-badge&logo=LangChain&logoColor=white">
 
+## 🏃‍➡️
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=kyon5)](https://solved.ac/kyon5)<br/>
+🐶 [My Tech Blog](https://kevinkh5.github.io/)
 <!--
 **kevinkh5/kevinkh5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
