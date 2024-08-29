@@ -1,8 +1,12 @@
 ## Hi there 👋
 As someone who values practicality and efficiency, I feel that programming suits me well.🤓
+
 However, I still find it challenging at times to learn and master new technologies.🥲
+
 Despite that, I find learning and applying new things exciting and stimulating.😝
-My dream is to become a PROBLEM SOLVER👨‍🔧 who uses my IT skills to improve people’s quality of life.
+
+My dream is to become a **PROBLEM SOLVER👨‍🔧** who uses my IT skills to improve people’s quality of life.
+
 "I will always strive to learn and grow." 늘 배우는 마음으로!🙇‍♂️
 
 ## 🧑‍💻 Tech Stack
