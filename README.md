@@ -9,6 +9,7 @@ My dream is to become a **PROBLEM SOLVER👨‍🔧** who uses my IT skills to i
 
 "I will always strive to learn and grow." 늘 배우는 마음으로!🙇‍♂️
 
+## 🐶 [My Tech Blog](https://kevinkh5.github.io/)
 ## 🧑‍💻 Tech Stack
 
 ### Language
@@ -35,7 +36,7 @@ My dream is to become a **PROBLEM SOLVER👨‍🔧** who uses my IT skills to i
 ## 🏃‍➡️
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=kyon5)](https://solved.ac/kyon5)<br/>
-🐶 [My Tech Blog](https://kevinkh5.github.io/)
+
 <!--
 **kevinkh5/kevinkh5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
